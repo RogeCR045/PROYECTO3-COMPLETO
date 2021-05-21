@@ -1,0 +1,14 @@
+body{
+    background: url('../rock/images/music4.jpg') no-repeat center center fixed;
+    background-size: cover;
+
+    
+}
+.user-img{
+    margin-top: -50px;
+    margin-bottom: 35px;
+}
+.user-img img{
+    width: 100px;
+    height: 100px;
+}
